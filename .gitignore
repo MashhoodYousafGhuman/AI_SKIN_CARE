@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Colab/Jupyter
+.ipynb_checkpoints/
+
+# Large files (dataset aur models Git mein nahi daalte)
+*.zip
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Skin data (large)
+skin-data/
+skin-type-dataset/
+
+# Cache
+.cache/
